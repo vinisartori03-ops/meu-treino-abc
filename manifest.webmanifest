@@ -1,0 +1,24 @@
+{
+  "name": "Meu Treino ABC — Saúde e Evolução",
+  "short_name": "Meu Treino",
+  "description": "Treinos ABC, esteira, descanso, histórico e evolução",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101827",
+  "theme_color": "#101827",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
